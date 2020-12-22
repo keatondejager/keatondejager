@@ -32,9 +32,11 @@ Projects that stood out for me during this course included:
 
 - I was a part of a team of students that built a vertical slice of narrative driven game to be presented in an exhibition as part of the final exam for the game design subject in third year. This project taught me important aspects of working on a more professional product over the course of a few months as a part of a team of individuals all handling different aspects of the project. The link to this project can be found on my GitHub page, or through the following link: <https://github.com/keatondejager/TheLighthouse> 
 
-##### BScHons (Computer Science), The University of the Witwatersrand, 2020 (Current studies)
+##### BScHons (Computer Science), The University of the Witwatersrand, 2020-2020
 
-This program provided me with the opportunity to experience a wider range of skills that are related to the world of computer science. The subjects I have specialized in, include computer vision, machine learning, high performance computing, digital image processing, robotics and human computer interaction.  
+This program provided me with the opportunity to experience a wider range of skills that are related to the world of computer science. The subjects I have specialized in, include computer vision (75%), reinforcement learning (70%), high performance computing (77%), digital image processing (91%), robotics (81%) and human computer interaction (84%).  
+
+I completed this qualification with an overall average of 77%. 
 
 ---
 
